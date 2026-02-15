@@ -2,13 +2,13 @@
   "run_date": "2026-02-15",
   "design_version": "gtm_v1",
   "input_file": "out/selected/2026-02-15.json",
-  "input_hash": "8475cb77c12b8e9b",
+  "input_hash": "4e608bfc7fe3619d",
   "cards": [
     {
       "category": "Commercial Apps",
       "filename": "01-commercial-apps.png",
       "no_signal": false,
-      "headline": "GitHub plans support for open source maintainers",
+      "headline": "GitHub addresses open source maintainer challenges",
       "bullet_count": 3,
       "source_domain": "github.blog"
     },
@@ -16,9 +16,9 @@
       "category": "Markets",
       "filename": "02-markets.png",
       "no_signal": false,
-      "headline": "Pentagon considers severing ties with Anthropic over AI ethics",
+      "headline": "Amazon Bedrock transforms talent acquisition with AI",
       "bullet_count": 3,
-      "source_domain": "techmeme.com"
+      "source_domain": "aws.amazon.com"
     },
     {
       "category": "Builders",
@@ -32,9 +32,9 @@
       "category": "Early Birds",
       "filename": "04-early-birds.png",
       "no_signal": false,
-      "headline": "AI's impact on jobs raises concerns about US preparedness",
+      "headline": "AI companion services integrate into social spaces",
       "bullet_count": 3,
-      "source_domain": "theatlantic.com"
+      "source_domain": "theverge.com"
     }
   ]
 }
