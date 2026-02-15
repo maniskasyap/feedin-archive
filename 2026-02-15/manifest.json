@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-15",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-15.json",
+  "input_hash": "8475cb77c12b8e9b",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "GitHub plans support for open source maintainers",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Pentagon considers severing ties with Anthropic over AI ethics",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Cloudflare introduces Markdown for AI agents",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "AI's impact on jobs raises concerns about US preparedness",
+      "bullet_count": 3,
+      "source_domain": "theatlantic.com"
+    }
+  ]
+}
