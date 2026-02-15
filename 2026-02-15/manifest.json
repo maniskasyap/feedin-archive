@@ -2,29 +2,29 @@
   "run_date": "2026-02-15",
   "design_version": "gtm_v1",
   "input_file": "out/selected/2026-02-15.json",
-  "input_hash": "6639117403d554fa",
+  "input_hash": "ecf316b7de8e2b68",
   "cards": [
     {
       "category": "Commercial Apps",
       "filename": "01-commercial-apps.png",
       "no_signal": false,
-      "headline": "Interop 2026 launches for web standards",
+      "headline": "Airbnb AI agent handles one-third of support issues",
       "bullet_count": 3,
-      "source_domain": "hacks.mozilla.org"
+      "source_domain": "techcrunch.com"
     },
     {
       "category": "Markets",
       "filename": "02-markets.png",
       "no_signal": false,
-      "headline": "Amazon Bedrock AgentCore gets Strands integration",
+      "headline": "Amazon stock falls for ninth consecutive day",
       "bullet_count": 3,
-      "source_domain": "aws.amazon.com"
+      "source_domain": "sherwood.news"
     },
     {
       "category": "Builders",
       "filename": "03-builders.png",
       "no_signal": false,
-      "headline": "Amazon Bedrock AgentCore Browser adds customization",
+      "headline": "AWS adds proxy and extension support to Bedrock AgentCore Browser",
       "bullet_count": 3,
       "source_domain": "aws.amazon.com"
     },
@@ -32,7 +32,7 @@
       "category": "Early Birds",
       "filename": "04-early-birds.png",
       "no_signal": false,
-      "headline": "AI companion cafes emerge as social trend",
+      "headline": "AI companionship explores social implications",
       "bullet_count": 3,
       "source_domain": "theverge.com"
     }
