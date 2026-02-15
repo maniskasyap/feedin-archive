@@ -2,21 +2,21 @@
   "run_date": "2026-02-15",
   "design_version": "gtm_v1",
   "input_file": "out/selected/2026-02-15.json",
-  "input_hash": "4e608bfc7fe3619d",
+  "input_hash": "6639117403d554fa",
   "cards": [
     {
       "category": "Commercial Apps",
       "filename": "01-commercial-apps.png",
       "no_signal": false,
-      "headline": "GitHub addresses open source maintainer challenges",
+      "headline": "Interop 2026 launches for web standards",
       "bullet_count": 3,
-      "source_domain": "github.blog"
+      "source_domain": "hacks.mozilla.org"
     },
     {
       "category": "Markets",
       "filename": "02-markets.png",
       "no_signal": false,
-      "headline": "Amazon Bedrock transforms talent acquisition with AI",
+      "headline": "Amazon Bedrock AgentCore gets Strands integration",
       "bullet_count": 3,
       "source_domain": "aws.amazon.com"
     },
@@ -24,15 +24,15 @@
       "category": "Builders",
       "filename": "03-builders.png",
       "no_signal": false,
-      "headline": "Cloudflare introduces Markdown for AI agents",
+      "headline": "Amazon Bedrock AgentCore Browser adds customization",
       "bullet_count": 3,
-      "source_domain": "blog.cloudflare.com"
+      "source_domain": "aws.amazon.com"
     },
     {
       "category": "Early Birds",
       "filename": "04-early-birds.png",
       "no_signal": false,
-      "headline": "AI companion services integrate into social spaces",
+      "headline": "AI companion cafes emerge as social trend",
       "bullet_count": 3,
       "source_domain": "theverge.com"
     }
