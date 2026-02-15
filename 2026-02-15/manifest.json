@@ -2,37 +2,37 @@
   "run_date": "2026-02-15",
   "design_version": "gtm_v1",
   "input_file": "out/selected/2026-02-15.json",
-  "input_hash": "ecf316b7de8e2b68",
+  "input_hash": "5a743c6a847da1da",
   "cards": [
     {
       "category": "Commercial Apps",
       "filename": "01-commercial-apps.png",
       "no_signal": false,
-      "headline": "Airbnb AI agent handles one-third of support issues",
+      "headline": "Interop 2026 initiative targets browser compatibility",
       "bullet_count": 3,
-      "source_domain": "techcrunch.com"
+      "source_domain": "hacks.mozilla.org"
     },
     {
       "category": "Markets",
       "filename": "02-markets.png",
       "no_signal": false,
-      "headline": "Amazon stock falls for ninth consecutive day",
+      "headline": "Western Digital sells out 2026 HDD capacity",
       "bullet_count": 3,
-      "source_domain": "sherwood.news"
+      "source_domain": "wccftech.com"
     },
     {
       "category": "Builders",
       "filename": "03-builders.png",
       "no_signal": false,
-      "headline": "AWS adds proxy and extension support to Bedrock AgentCore Browser",
+      "headline": "Cloudflare implements zero-downtime upgrades for Rust services",
       "bullet_count": 3,
-      "source_domain": "aws.amazon.com"
+      "source_domain": "blog.cloudflare.com"
     },
     {
       "category": "Early Birds",
       "filename": "04-early-birds.png",
       "no_signal": false,
-      "headline": "AI companionship explores social implications",
+      "headline": "AI companionship emerges through physical cafes and dating",
       "bullet_count": 3,
       "source_domain": "theverge.com"
     }
