@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-16",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-16.json",
+  "input_hash": "b2f12b06c0975d8a",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Talk2Code enables mobile code interaction via SMS",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Neysa targets $1.2B funding for 20K+ GPU deployment in India",
+      "bullet_count": 3,
+      "source_domain": "bloomberg.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Amazon Bedrock AgentCore Browser adds proxy and extension support",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "GitHub addresses open source maintainer challenges in growing community",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    }
+  ]
+}
