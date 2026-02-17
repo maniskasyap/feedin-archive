@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-17",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-17.json",
+  "input_hash": "417202b3c0656bb5",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Micron launches PCIe 6.0 SSDs with 28GB/s read speeds",
+      "bullet_count": 3,
+      "source_domain": "tomshardware.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Sony develops tech to detect copyrighted music in AI songs",
+      "bullet_count": 3,
+      "source_domain": "asia.nikkei.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "AWS enables long-running MCP servers with Bedrock AgentCore",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Cloudflare introduces Markdown for AI agents and crawlers",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    }
+  ]
+}
