@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-18",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-18.json",
+  "input_hash": "4ec4f5da8689317b",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Apple plans AI-powered glasses, pendant, and AirPods",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Anthropic to pay $80B+ to cloud providers through 2029",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
