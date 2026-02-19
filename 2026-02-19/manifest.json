@@ -2,21 +2,21 @@
   "run_date": "2026-02-19",
   "design_version": "gtm_v1",
   "input_file": "out/selected/2026-02-19.json",
-  "input_hash": "1e8fd200a05bdd6a",
+  "input_hash": "75f41954b0f27d62",
   "cards": [
     {
       "category": "Commercial Apps",
       "filename": "01-commercial-apps.png",
       "no_signal": false,
-      "headline": "LadybirdBrowser abandons Swift adoption",
+      "headline": "Austin startup Circuit raises $30M for AI manufacturing platform",
       "bullet_count": 3,
-      "source_domain": "github.com"
+      "source_domain": "statesman.com"
     },
     {
       "category": "Markets",
       "filename": "02-markets.png",
       "no_signal": false,
-      "headline": "OpenAI nears $100B funding round completion",
+      "headline": "Samsung shares hit record high on HBM4 chip pricing report",
       "bullet_count": 3,
       "source_domain": "bloomberg.com"
     },
@@ -24,9 +24,9 @@
       "category": "Builders",
       "filename": "03-builders.png",
       "no_signal": false,
-      "headline": "Amazon launches Bedrock AgentCore for unified intelligence",
+      "headline": "Cloudflare introduces Markdown for AI agents with structured data",
       "bullet_count": 3,
-      "source_domain": "aws.amazon.com"
+      "source_domain": "blog.cloudflare.com"
     },
     {
       "category": "Early Birds",
