@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-20",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-20.json",
+  "input_hash": "74150be166285111",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": true,
+      "headline": "Uber's market cap drops 25% amid robotaxi concerns",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "AI reshapes developer choices per Octoverse data",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
