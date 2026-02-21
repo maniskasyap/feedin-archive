@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-21",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-21.json",
+  "input_hash": "9e470902d6bf8a82",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "CRTX AI tool self-tests and fixes code output",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Discussion emerges about disabling Dependabot tool",
+      "bullet_count": 3,
+      "source_domain": "words.filippo.io"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "SageMaker 2025 review highlights training and inference upgrades",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Sarvam launches Indus chat app beta with 105B model",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    }
+  ]
+}
