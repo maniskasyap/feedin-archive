@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-22",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-22.json",
+  "input_hash": "10bf3f340cfc501e",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Amazon SageMaker AI 2025: Training and inference improvements",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Sam Altman addresses AI washing and real displacement",
+      "bullet_count": 3,
+      "source_domain": "gizmodo.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Code Mode optimizes APIs for AI agent consumption",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "AI tools lower barriers, reducing open source contribution quality",
+      "bullet_count": 3,
+      "source_domain": "techcrunch.com"
+    }
+  ]
+}
