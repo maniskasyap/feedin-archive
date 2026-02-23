@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-23",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-23.json",
+  "input_hash": "dbfeea22e3b0275c",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": true,
+      "headline": "PC makers partner with Nvidia on Arm-based chips",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "AI reshapes developer choices according to Octoverse data",
+      "bullet_count": 3,
+      "source_domain": "wsj.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
