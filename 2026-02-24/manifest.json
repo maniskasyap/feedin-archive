@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-24",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-24.json",
+  "input_hash": "bc6ea870ca342771",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Apple to shift Mac Mini production to Houston in 2026",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Ladybird browser adopts Rust with AI assistance",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "New framework reveals structural AI safety failures",
+      "bullet_count": 3,
+      "source_domain": "arxiv.org"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Falcon builds chat communities on Bluesky protocol",
+      "bullet_count": 3,
+      "source_domain": "news.ycombinator.com"
+    }
+  ]
+}
