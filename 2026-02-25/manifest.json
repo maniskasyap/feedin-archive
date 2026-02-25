@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-25",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-25.json",
+  "input_hash": "d62155ab5c5e162e",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "StreamHouse offers S3-native Kafka alternative in Rust",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Pentagon AI team includes Uber exec and private equity billionaire",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "AWS tutorial builds photo search with Rekognition, Neptune, Bedrock",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
