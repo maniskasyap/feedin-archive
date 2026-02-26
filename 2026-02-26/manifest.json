@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-26",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-26.json",
+  "input_hash": "a3495cda64d3159e",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Google and Samsung launch AI task automation",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "OpenAI hires Meta AI researcher Ruoming Pang",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "AI reshapes developer technology selection",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Automatic image localization pipeline launched",
+      "bullet_count": 3,
+      "source_domain": "news.ycombinator.com"
+    }
+  ]
+}
