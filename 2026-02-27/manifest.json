@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-27",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-27.json",
+  "input_hash": "1c6fedbe6fd6f6e5",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Anthropic refuses Pentagon AI access",
+      "bullet_count": 3,
+      "source_domain": "anthropic.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Meta hires Thinking Machines co-founders",
+      "bullet_count": 3,
+      "source_domain": "businessinsider.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Research introduces context compilation for LLMs",
+      "bullet_count": 3,
+      "source_domain": "arxiv.org"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
