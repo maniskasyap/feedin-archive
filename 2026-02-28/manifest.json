@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-02-28",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-02-28.json",
+  "input_hash": "43c903a5b2fadfdb",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Amazon Nova uses reinforcement fine-tuning for AI",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Defense Secretary labels Anthropic supply chain risk",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Cloudflare proposes improved JavaScript streams API",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
