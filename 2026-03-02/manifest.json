@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-02",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-02.json",
+  "input_hash": "e19f5066d35bada3",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Agent-Audit tool audits AI agent performance",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Pentagon designates Anthropic as supply chain risk",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Proposal calls for better JavaScript streams API",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
