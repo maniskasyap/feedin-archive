@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-06",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-06.json",
+  "input_hash": "2d92883467f55924",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "AWS launches multi-developer CI/CD pipeline for Amazon Lex",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Cloverleaf secures land deals for AI data center infrastructure",
+      "bullet_count": 3,
+      "source_domain": "nytimes.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Data quality issues hinder half of agentic AI deployments",
+      "bullet_count": 3,
+      "source_domain": "zdnet.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Zalor launches automated testing platform for AI agents",
+      "bullet_count": 3,
+      "source_domain": "agents.zalor.ai"
+    }
+  ]
+}
