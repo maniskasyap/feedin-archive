@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-07",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-07.json",
+  "input_hash": "ce04dc220d9eee09",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Context-compact summarizes agent conversations to preserve context",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Pichai's $692M pay deal ties compensation to Waymo performance",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GitHub Security Lab launches AI-powered vulnerability scanning framework",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
