@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-09",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-09.json",
+  "input_hash": "c7088e01243f886f",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "WAXAL: Open resource for African language speech tech",
+      "bullet_count": 3,
+      "source_domain": "research.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Iran conflict threatens Gulf AI investment plans",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GitHub Security Lab releases AI vulnerability scanning framework",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
