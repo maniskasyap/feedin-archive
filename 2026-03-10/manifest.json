@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-10",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-10.json",
+  "input_hash": "19d1d42583788ab9",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Open-source AI code review alternative to Claude",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Spark Capital raises $3B for AI-focused investment funds",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Cloudflare launches stateful API vulnerability scanner",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
