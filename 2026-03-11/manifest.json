@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-11",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-11.json",
+  "input_hash": "ea35e879cb7444ee",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Streamline LLM fine-tuning and deployment to Bedrock",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Teen-founded AI startup Aaru reaches $1B valuation",
+      "bullet_count": 3,
+      "source_domain": "wsj.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GitHub shifts from text AI to programmable execution interfaces",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
