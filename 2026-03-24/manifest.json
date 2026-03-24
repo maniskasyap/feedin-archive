@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-24",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-24.json",
+  "input_hash": "7bb71136aacb5c90",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Cloudflare launches Gen 13 servers with doubled compute",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Nvidia becomes AI industry's key financial investor",
+      "bullet_count": 3,
+      "source_domain": "wsj.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GitHub expands security with AI-powered detections",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
