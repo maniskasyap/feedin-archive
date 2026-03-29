@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-03-29",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-03-29.json",
+  "input_hash": "4ead1de358e3180d",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "ASTs transform workflows into visual diagrams",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "GitHub Actions 2026 security roadmap revealed",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "FreeBSD stack deployment guide published",
+      "bullet_count": 3,
+      "source_domain": "it-notes.dragas.net"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
