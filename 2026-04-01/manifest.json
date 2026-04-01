@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-01",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-01.json",
+  "input_hash": "2d7bbdfc6ff8a468",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Biochemistry concept outperforms RAG in multi-hop retrieval",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "OpenAI achieves $852B valuation in latest funding round",
+      "bullet_count": 3,
+      "source_domain": "cnbc.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Amazon Bedrock introduces AgentCore Evaluations for AI agents",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Live simulation shows AI agents scamming each other",
+      "bullet_count": 3,
+      "source_domain": "5.161.255.238:8888"
+    }
+  ]
+}
