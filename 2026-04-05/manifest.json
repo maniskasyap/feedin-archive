@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-05",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-05.json",
+  "input_hash": "171e85796c6b83f2",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "India's film industry adopts AI to reduce production costs",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Folk musician targeted by AI fakes and copyright troll",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Research project captures LLM API interactions for abstraction",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
