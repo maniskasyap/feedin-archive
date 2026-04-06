@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-06",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-06.json",
+  "input_hash": "e7f8c3af0974c44d",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "md-redline enables inline markdown review for AI agents",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "OpenAI CFO excluded from key financial meetings amid restructuring",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Gemma 4 achieves mobile AI deployment on iPhone",
+      "bullet_count": 3,
+      "source_domain": "apps.apple.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
