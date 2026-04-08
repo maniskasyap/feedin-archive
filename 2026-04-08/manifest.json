@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-08",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-08.json",
+  "input_hash": "d0983a01630cc564",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Niantic launches Scaniverse for 3D mapping and robotics",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "GLM-5.1 analyzed for long-horizon task capabilities",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Anthropic secures TPU deal amid computing constraints",
+      "bullet_count": 3,
+      "source_domain": "stratechery.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Claude Mythos Preview technical documentation released",
+      "bullet_count": 3,
+      "source_domain": "www-cdn.anthropic.com"
+    }
+  ]
+}
