@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-12",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-12.json",
+  "input_hash": "3185526bce36172f",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Open-Source Web UI for Anthropic AI Agents",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "EU Survey Shows Massive Tech Distrust",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Research Exposes AI Agent Benchmark Flaws",
+      "bullet_count": 3,
+      "source_domain": "rdi.berkeley.edu"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
