@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-14",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-14.json",
+  "input_hash": "fa775a0456262682",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Missouri voters oust council members over data center",
+      "bullet_count": 3,
+      "source_domain": "politico.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Oracle expands fuel cell partnership with Bloom Energy",
+      "bullet_count": 3,
+      "source_domain": "cnbc.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GitHub Pages beginner guide for website creation",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
