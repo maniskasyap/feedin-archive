@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-15",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-15.json",
+  "input_hash": "65a3260b2c1afc32",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "AWS launches use-case based deployments on SageMaker JumpStart",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Federal agencies test Claude Mythos despite political restrictions",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "New benchmark LABBench2 evaluates AI systems in biology research",
+      "bullet_count": 3,
+      "source_domain": "arxiv.org"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Lumon browser agents feature interactive sprites with personality",
+      "bullet_count": 3,
+      "source_domain": "lumon-live.netlify.app"
+    }
+  ]
+}
