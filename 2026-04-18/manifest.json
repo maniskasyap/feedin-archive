@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-18",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-18.json",
+  "input_hash": "bfde6ab411cd4c06",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Anthropic delays Mythos release due to infrastructure issues",
+      "bullet_count": 3,
+      "source_domain": "ft.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "AI boosts developer speed but not design quality",
+      "bullet_count": 3,
+      "source_domain": "starzup.vercel.app"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Smol machines achieve subsecond coldstart for portable VMs",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
