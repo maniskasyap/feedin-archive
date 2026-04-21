@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-04-21",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-04-21.json",
+  "input_hash": "320418ed50949a71",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Cloudflare's AI stack handles 20M requests, 241B tokens",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Apple reorganizes hardware teams into five divisions",
+      "bullet_count": 3,
+      "source_domain": "bloomberg.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Victory Giant IPO raises $2.6B in Hong Kong debut",
+      "bullet_count": 3,
+      "source_domain": "scmp.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
