@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-02",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-02.json",
+  "input_hash": "4488af5d63fdbc20",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Migrating cdnjs to Cloudflare's Developer Platform at Scale",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Faulty Coldcard Firmware Leads to $70M+ in Wallet Draining",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Google Earth's AI Deepfake Tool Removed After One Day",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
