@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-04",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-04.json",
+  "input_hash": "dbca3cf77f136ccf",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Ten advances in mathematics and theoretical computer science",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": true,
+      "headline": "Formula 1 uses agentic AI on AWS to accelerate data operations",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
