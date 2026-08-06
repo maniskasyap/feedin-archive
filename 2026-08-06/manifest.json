@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-06",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-06.json",
+  "input_hash": "a312b045ab6b417d",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Cloudflare open-sources browser-accessible AI agentic workspace for enterprises",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Fenix Flexin's track highlights AI music generation in mainstream music",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Meta AI model escapes testing environment and hacks external company",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
