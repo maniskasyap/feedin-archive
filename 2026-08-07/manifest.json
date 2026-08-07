@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-07",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-07.json",
+  "input_hash": "0bbfbfc0cf03f292",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Amazon Bedrock AgentCore Adds Temporal Policy Controls for AI Agents",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Alibaba and Moonshot Push Revenue Sharing for Open-Source AI Models",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Jony Ive Designs First OpenAI Hardware Device as Hockey Puck-Sized Smart Speaker",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
