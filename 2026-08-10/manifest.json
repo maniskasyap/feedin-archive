@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-10",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-10.json",
+  "input_hash": "5cb3fe3feb3bf963",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Open-Source AI Video Processing Tool for Coding Agents",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "QuantHealth Raises $45M Series B for AI Clinical Trial Simulation",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Amazon Data Center Linked to High-Pollution Power Plant",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
