@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-11",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-11.json",
+  "input_hash": "c06b3bf75050c894",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Cloudflare Launches Agent Week Products for AI Development",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Research Advances Multi-Label Graph Foundation Models",
+      "bullet_count": 3,
+      "source_domain": "arxiv.org"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Anthropic Signs $9.1B Compute Deal with Riot Platforms",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
