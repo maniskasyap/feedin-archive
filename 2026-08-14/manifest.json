@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-14",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-14.json",
+  "input_hash": "920ec283f570d8a1",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "OpenAI Staff Cite Speed Pressure Over Safety in Major Incident",
+      "bullet_count": 3,
+      "source_domain": "wired.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
