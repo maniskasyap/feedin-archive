@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-15",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-15.json",
+  "input_hash": "4c4b2a2f26ddedec",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": true,
+      "headline": "Dual-Valuation Deals Spread in Frenzied AI Funding Cycle",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
