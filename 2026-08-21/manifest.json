@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-21",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-21.json",
+  "input_hash": "21f928881af3f1bd",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Nevada approves permits for Tesla to deploy up to 5,000 robotaxis",
+      "bullet_count": 3,
+      "source_domain": "techcrunch.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": true,
+      "headline": "VentureBeat names Rob Strechay as first Lead Analyst for AI research expansion",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": "venturebeat.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
