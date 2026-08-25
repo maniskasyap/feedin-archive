@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-25",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-25.json",
+  "input_hash": "9dd7448e202270e9",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Meta to Launch Hatch and Watermelon AI Products",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "AI Autonomy Drives Cybersecurity Offensive Strategies",
+      "bullet_count": 3,
+      "source_domain": "stratechery.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "AWS Adds Managed Ray Support to SageMaker HyperPod",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
