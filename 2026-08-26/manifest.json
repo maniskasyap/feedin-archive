@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-26",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-26.json",
+  "input_hash": "1fa8c2ef2eec00c5",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": true,
+      "headline": "Wrtn Secures Series C Funding for AI Services Platform",
+      "bullet_count": 3,
+      "source_domain": ""
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Cloudflare Migrates Blog to EmDash for Scalable Web Infrastructure",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
