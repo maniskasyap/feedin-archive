@@ -2,37 +2,37 @@
   "run_date": "2026-08-27",
   "design_version": "gtm_v1",
   "input_file": "out/selected/2026-08-27.json",
-  "input_hash": "d1fc48ab2d3759f2",
+  "input_hash": "46cf9f997602403b",
   "cards": [
     {
       "category": "Commercial Apps",
       "filename": "01-commercial-apps.png",
       "no_signal": false,
-      "headline": "X Launches NFL Gametime App with Live Data and Creator Content",
+      "headline": "X launches NFL Gametime hub with live scores and creator content",
       "bullet_count": 3,
-      "source_domain": "variety.com"
+      "source_domain": "techmeme.com"
     },
     {
       "category": "Markets",
       "filename": "02-markets.png",
-      "no_signal": true,
-      "headline": "No signal this week",
+      "no_signal": false,
+      "headline": "Nvidia approaches $100B-per-quarter revenue milestone",
       "bullet_count": 3,
-      "source_domain": ""
+      "source_domain": "theverge.com"
     },
     {
       "category": "Builders",
       "filename": "03-builders.png",
-      "no_signal": true,
-      "headline": "No signal this week",
+      "no_signal": false,
+      "headline": "Nvidia acquires Hugging Face for $13B",
       "bullet_count": 3,
-      "source_domain": ""
+      "source_domain": "businessinsider.com"
     },
     {
       "category": "Early Birds",
       "filename": "04-early-birds.png",
       "no_signal": true,
-      "headline": "No signal this week",
+      "headline": "No early bird items available",
       "bullet_count": 3,
       "source_domain": ""
     }
