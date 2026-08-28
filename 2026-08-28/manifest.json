@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-28",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-28.json",
+  "input_hash": "a2190f0a8542b002",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Multi-Agent Enterprise AI Risk Lives in Inter-Agent Complexity",
+      "bullet_count": 3,
+      "source_domain": "venturebeat.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "CXMT Posts $22.4B H1 Revenue, Swings to $11.5B Profit",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "OpenAI Models Land on Amazon Bedrock in India",
+      "bullet_count": 3,
+      "source_domain": "aws.amazon.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No Early-Bird Updates Today",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
