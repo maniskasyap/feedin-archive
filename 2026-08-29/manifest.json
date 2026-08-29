@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-08-29",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-08-29.json",
+  "input_hash": "5fc67a8065f367d0",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "OpenAI's policy stance on Cursor after SpaceX acquisition",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Unions threaten to drop politicians blocking data centers",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Rumored bugs now lead to fast security exploits",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": true,
+      "headline": "No signal this week",
+      "bullet_count": 3,
+      "source_domain": ""
+    }
+  ]
+}
