@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-10-27",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-10-27.json",
+  "input_hash": "cb65e7ee4a8bf457",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Joonko Guilty Plea Sets Founder Liability Precedent",
+      "bullet_count": 3,
+      "source_domain": "news.crunchbase.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "China Star 50 Index Plunges 40% Losing $480B",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GLM-5.3 KV Cache Leak Fixed via SGLang",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "OpenAI Partners Academics for Scientific Breakthroughs",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    }
+  ]
+}
