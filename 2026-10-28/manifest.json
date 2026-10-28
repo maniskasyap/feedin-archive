@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-10-28",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-10-28.json",
+  "input_hash": "7de43dca691213a6",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Retell powers 100M monthly calls with OpenAI models",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "SK Hynix predicts memory shortages through 2030",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Sleep framework lets LLMs retain knowledge continuously",
+      "bullet_count": 3,
+      "source_domain": "research.google"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Spec-first agentic plugin generates code from specifications",
+      "bullet_count": 3,
+      "source_domain": "spec-first.dev"
+    }
+  ]
+}
