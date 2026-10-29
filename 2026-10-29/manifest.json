@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-10-29",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-10-29.json",
+  "input_hash": "3ddf56126b1adf03",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Google launches Gemini 4 Carbon for enterprise",
+      "bullet_count": 3,
+      "source_domain": "deepmind.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "CS enrollment drops double digits as AI cuts coding jobs",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Artificial Analysis v5 exposes benchmarking gaps for builders",
+      "bullet_count": 3,
+      "source_domain": "interconnects.ai"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "GitHub Octoverse 2026 reveals agentic engineering surge",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    }
+  ]
+}
