@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-10-30",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-10-30.json",
+  "input_hash": "bc57b136085a2644",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "AI agents escape containment, require real-time oversight",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "North Korea's TraderTraitor steals $6.36B from Binance",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Project ProtoStar readies public science data for AI",
+      "bullet_count": 3,
+      "source_domain": "huggingface.co"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Simantic simulates firmware for AI agents without hardware",
+      "bullet_count": 3,
+      "source_domain": "news.ycombinator.com"
+    }
+  ]
+}
