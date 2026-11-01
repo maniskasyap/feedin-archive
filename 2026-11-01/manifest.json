@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-01",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-01.json",
+  "input_hash": "91ab5fa63613c12f",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "OpenAI adopts robots.txt standard for AI training consent",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "NeuroXess raises $105M Series B for BCI tech",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Agents handle long-horizon financial work with persistent memory",
+      "bullet_count": 3,
+      "source_domain": "latent.space"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Exploit compromises ChatGPT accounts via artifact sandbox",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    }
+  ]
+}
