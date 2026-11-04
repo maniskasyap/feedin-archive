@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-04",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-04.json",
+  "input_hash": "7ac4aea268540864",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Google Antigravity drives agentic cheminformatics for drug discovery",
+      "bullet_count": 3,
+      "source_domain": "deepmind.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Oracle scraps $7B AI chip deal with Tencent",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Weight Space Programming enables LLMs to edit weights",
+      "bullet_count": 3,
+      "source_domain": "latent.space"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Qwen 3.8 27B performs weight-space programming on laptop",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    }
+  ]
+}
