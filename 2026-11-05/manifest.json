@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-05",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-05.json",
+  "input_hash": "298c29e9e578b230",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "OpenAI acquires Pierre Computer Company",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "SEC adopts amendments to small entity definitions",
+      "bullet_count": 3,
+      "source_domain": "sec.gov"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "AI aids human deliberation in ambiguous decisions",
+      "bullet_count": 3,
+      "source_domain": "research.google"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Residential proxies found on White House network",
+      "bullet_count": 3,
+      "source_domain": "layer3intel.com"
+    }
+  ]
+}
