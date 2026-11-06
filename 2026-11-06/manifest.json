@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-06",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-06.json",
+  "input_hash": "420ee62cc1a093e6",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Data lineage secures autonomous AI agent operations",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "SEC amends small entity rules for AI startups",
+      "bullet_count": 3,
+      "source_domain": "sec.gov"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Google TPU challenges NVIDIA CUDA in AI inference",
+      "bullet_count": 3,
+      "source_domain": "newsletter.semianalysis.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "UK Sovereign AI Fund backs chemical data startup",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    }
+  ]
+}
