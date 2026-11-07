@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-07",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-07.json",
+  "input_hash": "1bde9d586a14434a",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Humanoid robot cleans apartment in commercial service debut",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "OpenAI hits $1.25T valuation as Anthropic prepares IPO",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Google TPU challenges NVIDIA inference dominance with tooling",
+      "bullet_count": 3,
+      "source_domain": "newsletter.semianalysis.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Nilay Patel critiques AI value proposition and agent hype",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    }
+  ]
+}
