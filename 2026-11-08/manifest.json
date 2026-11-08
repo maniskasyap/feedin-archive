@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-08",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-08.json",
+  "input_hash": "d4d75e05b41f1ec4",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "GitHub Copilot becomes agentic engineering partner",
+      "bullet_count": 3,
+      "source_domain": "github.blog"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "China deploys 800MW wind-powered AI campus",
+      "bullet_count": 3,
+      "source_domain": "newsletter.semianalysis.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Humanoid robot service cleans apartments commercially",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "OpenAI engages Hacktron to stress-test systems",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    }
+  ]
+}
