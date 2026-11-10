@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-10",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-10.json",
+  "input_hash": "c74fd1f216940794",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "ChatGPT Enterprise launches on AWS Marketplace",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Electricity constraints drive data center opposition",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "HOPE technique optimizes mixture-of-experts models",
+      "bullet_count": 3,
+      "source_domain": "huggingface.co"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Claude Fable 5.2 reclaims top LLM ranking",
+      "bullet_count": 3,
+      "source_domain": "latent.space"
+    }
+  ]
+}
