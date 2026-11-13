@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-13",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-13.json",
+  "input_hash": "2893d796a915668f",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Gemini 4 Hydrogen Launches as Low-Cost Model",
+      "bullet_count": 3,
+      "source_domain": "deepmind.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Senate Chair Seeks Nvidia Testimony From Huang, Lutnick",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "LLMON Markup Language Arrives in Granite 4.1 Models",
+      "bullet_count": 3,
+      "source_domain": "huggingface.co"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Pomerado Turns Websites Into MCP Servers for Agents",
+      "bullet_count": 3,
+      "source_domain": "news.ycombinator.com"
+    }
+  ]
+}
