@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-14",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-14.json",
+  "input_hash": "514db29402ba4c8d",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Introducing ChatGPT Wallet",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Nvidia privately confirmed it track chips to fight smuggling, even as industry publi",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Kitesurf is now open source",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "bullet_count": 3,
+      "source_domain": "grounds.top"
+    }
+  ]
+}
