@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-15",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-15.json",
+  "input_hash": "afd4c654c27f6ad6",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "ChatGPT Wallet Enables Agent Purchases With User Approval",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Nvidia Scenario Analysis Without Jensen",
+      "bullet_count": 3,
+      "source_domain": "newsletter.semianalysis.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Kitesurf Browser Engine for AI Agents Goes Open Source",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Nvidia GPU Prices Kept High via Circular Financing Deals",
+      "bullet_count": 3,
+      "source_domain": "techspot.com"
+    }
+  ]
+}
