@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-18",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-18.json",
+  "input_hash": "a323dba19802649a",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Microsoft puts Word, Excel, PowerPoint inside Copilot",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Genesis AI raises $500M at $3.5B valuation",
+      "bullet_count": 3,
+      "source_domain": "news.crunchbase.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Quad9 exits France over DNS blocking mandate",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "External sandboxes isolate code run by coding agents",
+      "bullet_count": 3,
+      "source_domain": "simonwillison.net"
+    }
+  ]
+}
