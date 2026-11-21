@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-21",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-21.json",
+  "input_hash": "420b93c996d990a8",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "bullet_count": 3,
+      "source_domain": "research.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Statement on Proposal to Restructure the Consolidated Audit Trail",
+      "bullet_count": 3,
+      "source_domain": "sec.gov"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "bullet_count": 3,
+      "source_domain": "blog.cloudflare.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    }
+  ]
+}
