@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-22",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-22.json",
+  "input_hash": "50bb7172858413bb",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Google Duplex now calls businesses inside Gemini",
+      "bullet_count": 3,
+      "source_domain": "research.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "AI server suppliers demand higher prices after contracts",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Riemann Hypothesis proof found twice independently",
+      "bullet_count": 3,
+      "source_domain": "latent.space"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Inkling-2-Mini runs in 5.4 GB memory",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    }
+  ]
+}
