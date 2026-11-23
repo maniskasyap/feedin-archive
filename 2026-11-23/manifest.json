@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-23",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-23.json",
+  "input_hash": "ffcfa0ed9fff8719",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Google Duplex evolves into Gemini business calling",
+      "bullet_count": 3,
+      "source_domain": "research.google"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "US chip export rules threaten SEA data center boom",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Misunderstood AI graph gets major METR update",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Onlook open-sources agentic design tool for designers",
+      "bullet_count": 3,
+      "source_domain": "github.com"
+    }
+  ]
+}
