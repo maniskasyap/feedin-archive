@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-25",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-25.json",
+  "input_hash": "3ebc8f985aa763cb",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "GPT-6 designs proteins with lab binding evidence",
+      "bullet_count": 3,
+      "source_domain": "openai.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "Philosopher rejects Anthropic consciousness argument",
+      "bullet_count": 3,
+      "source_domain": "technologyreview.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "Gemini 4 Neon returns GDM to frontier lab status",
+      "bullet_count": 3,
+      "source_domain": "latent.space"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "MAGI-2 launches 480B cinematic video model",
+      "bullet_count": 3,
+      "source_domain": "producthunt.com"
+    }
+  ]
+}
