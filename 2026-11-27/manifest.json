@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-27",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-27.json",
+  "input_hash": "819ad5e56bb7e48d",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Depost AI launches LinkedIn brand voice agent",
+      "bullet_count": 3,
+      "source_domain": "producthunt.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "42 state AGs oppose Character.AI selling chats",
+      "bullet_count": 3,
+      "source_domain": "theverge.com"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "GDPx evaluates recent frontier model releases",
+      "bullet_count": 3,
+      "source_domain": "newsletter.semianalysis.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Three Linux VMs run in one browser tab",
+      "bullet_count": 3,
+      "source_domain": "michidk.github.io"
+    }
+  ]
+}
