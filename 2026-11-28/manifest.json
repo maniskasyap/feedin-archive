@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-11-28",
+  "design_version": "gtm_v1",
+  "input_file": "out/selected/2026-11-28.json",
+  "input_hash": "d61ba8722f6541f0",
+  "cards": [
+    {
+      "category": "Commercial Apps",
+      "filename": "01-commercial-apps.png",
+      "no_signal": false,
+      "headline": "Embo exits stealth with $110M seed for robotics world models",
+      "bullet_count": 3,
+      "source_domain": "techmeme.com"
+    },
+    {
+      "category": "Markets",
+      "filename": "02-markets.png",
+      "no_signal": false,
+      "headline": "States sue SpaceX over Grok child sex images",
+      "bullet_count": 3,
+      "source_domain": "oag.state.va.us"
+    },
+    {
+      "category": "Builders",
+      "filename": "03-builders.png",
+      "no_signal": false,
+      "headline": "AWS Trainium3 inference microarchitecture deep dive",
+      "bullet_count": 3,
+      "source_domain": "newsletter.semianalysis.com"
+    },
+    {
+      "category": "Early Birds",
+      "filename": "04-early-birds.png",
+      "no_signal": false,
+      "headline": "Stacktrace adds real-time steering for AI agents",
+      "bullet_count": 3,
+      "source_domain": "producthunt.com"
+    }
+  ]
+}
